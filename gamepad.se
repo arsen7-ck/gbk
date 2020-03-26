@@ -1,9 +1,9 @@
 # Map movement controls to the left stick. The same can be done using 'right' instead of 'left'.
 
-d = X
-e = square
-f = O
-r = triangle
+A = X
+X = square
+B = O
+Y = triangle
 
 enter = PS
 space = touchpad
