@@ -1,6 +1,6 @@
 # Map movement controls to the left stick. The same can be done using 'right' instead of 'left'.
 
-A = X
+btn15 = X
 X = square
 B = O
 Y = triangle
